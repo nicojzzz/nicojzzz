@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicojzzz
-- 👀 I’m web and mobile development
+- 👀 I’m intersted in web and mobile development
 - 🌱 I’m currently learning flutter
 - 📫 You can reach me at nicojuarezzz@gmail.com
 
