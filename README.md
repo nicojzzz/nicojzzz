@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicojzzz
 - 👀 I’m intersted in web and mobile development
-- 🌱 I’m currently making a chat room with @fiorafran. You can take a look at it here =>({ https://github.com/fiorafran/Chat-proyecto/deployments/activity_log?environment=github-pages });
+- 🌱 I’m currently making a chat room with @fiorafran [ github.com/fiorafran ]. You can take a look at it here =>({ https://github.com/fiorafran/Chat-proyecto/deployments/activity_log?environment=github-pages });
 - 📫 You can reach me at nicojuarezzz@gmail.com
 
 <!---
