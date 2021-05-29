@@ -5,7 +5,7 @@
 - 📫 You can reach me at nicojuarezzz@gmail.com and www.linkedin.com/in/njzz
 - My skills:
 - <html>
-- 	<a>https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white</a>
+- 	<img>https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white</img>
   </html>
 <!---
 nicojzzz/nicojzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
